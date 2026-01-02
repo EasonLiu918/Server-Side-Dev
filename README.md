@@ -2,7 +2,7 @@
 
 This repository contains my projects for server-side programming through game development.
 
-## Card Game (Server-side)
+## Card Game
 
 ### Files
 - `Card Game.zip` — source code (project folder)
